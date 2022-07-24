@@ -19,12 +19,8 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 # 📊 GitHub Stats
-<div align="center">![](https://github-readme-stats.vercel.app/api?username=sebahajduk&theme=nord&hide_border=true&include_all_commits=false&count_private=false) align="center" /></div> 
+![](https://github-readme-stats.vercel.app/api?username=sebahajduk&theme=nord&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sebahajduk&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebahajduk&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebahajduk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
