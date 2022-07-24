@@ -5,8 +5,7 @@
 # 👨‍💻 Hello, I'm Sebastian!
 🔭 I’m currently working on BooksData app in UIKit framework.<br>
 🌱 I’m currently learning how to make awesome views without Storyboard.<br>
-💬 Ask me about <br>
-⚡ Fun fact
+♟️ chess player & 🥊 boxing fan
 
 # 💪 Skills:
  
