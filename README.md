@@ -3,8 +3,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sebakodzi) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-hajduk) 
 
-🔭 Working on MyBoxer - game created in UIKit.<br>
-🌱 Learning how to make awesome views without Storyboard.<br>
+🔭 Working on Watudo - app for time tracking made in UIKit.<br>
+🌱 Learning how to make awesome apps.<br>
 ♟️ Chess player & 🥊 boxing fan
 
 # 💪 Skills
