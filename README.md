@@ -24,4 +24,29 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sebahajduk&theme=nord&hide_border=true)<br/>
 
 
+# 💡 Projects
+WATUDO
 
+![watudo](https://user-images.githubusercontent.com/86189139/218770340-d57e069f-136e-4b89-918f-42e3bbab6043.jpg)
+
+Are you freelancer? Do you have problem with procrastination? Maybe you want to track your daily activities?
+
+If this is about you - Watudo is perfect choice. With this app you can track your daily activities, generate reports, draw conclusions and improve you daily routine!
+
+Be the best version of you with Watudo!
+
+APP IS STILL IN BUILDING.
+
+MY BOXER
+
+![213913375-acab5359-fb8c-41a1-8ff3-b8e205266978](https://user-images.githubusercontent.com/86189139/218770961-3e8985b3-f4ee-4fbc-b0b3-64714972de8c.jpg)
+
+Train, hire your team, buy new equipment, fight and win to be the Greatest Of All Time!
+
+You will start from lightweight division, win your way to higher division. Beat heavyweight champ to be remembered forever!
+
+BooksData
+
+![booksdata](https://user-images.githubusercontent.com/86189139/218771108-571ad582-4363-4117-96dd-f9634f552298.jpg)
+
+This app allows user to find and save as favorite or buy book or audiobook. Books are read from JSON-type file and all informations about user are stored in Firebase.
