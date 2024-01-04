@@ -3,7 +3,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sebakodzi) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-hajduk) 
 
-🔭 Working on Zenventory - achieve Zen with your stuff.<br>
+🔭 Working on Stufflu - achieve Zen with your stuff.<br>
 🌱 Learning how to make awesome apps.<br>
 ♟️ Chess player & 🥊 boxing fan
 
