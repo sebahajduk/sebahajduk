@@ -25,7 +25,13 @@
 
 
 # 💡 Projects
-WATUDO
+# STUFFLU
+
+![Stufflu](https://github.com/sebahajduk/sebahajduk/assets/86189139/25f029f7-0f08-4224-b7a6-dde7fba6e72e)
+
+Zenventory is a minimalist inventory management app designed for individuals who want to keep track of their possessions. It allows you to store information about your products, track your expenses, and keep records of sold products.
+
+# WATUDO
 
 ![watudo](https://user-images.githubusercontent.com/86189139/218770340-d57e069f-136e-4b89-918f-42e3bbab6043.jpg)
 
@@ -35,9 +41,7 @@ If this is about you - Watudo is perfect choice. With this app you can track you
 
 Be the best version of you with Watudo!
 
-APP IS STILL IN BUILDING.
-
-MY BOXER
+# MY BOXER
 
 ![213913375-acab5359-fb8c-41a1-8ff3-b8e205266978](https://user-images.githubusercontent.com/86189139/218770961-3e8985b3-f4ee-4fbc-b0b3-64714972de8c.jpg)
 
@@ -45,7 +49,7 @@ Train, hire your team, buy new equipment, fight and win to be the Greatest Of Al
 
 You will start from lightweight division, win your way to higher division. Beat heavyweight champ to be remembered forever!
 
-BooksData
+# BooksData
 
 ![booksdata](https://user-images.githubusercontent.com/86189139/218771108-571ad582-4363-4117-96dd-f9634f552298.jpg)
 
